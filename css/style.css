@@ -181,7 +181,7 @@ ul, ol {
 }
 
 .section-header .title {
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 .title:after {
